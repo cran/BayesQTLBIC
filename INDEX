@@ -1,0 +1,17 @@
+bicreg.models           BIC analysis for a fixed set of models
+bicreg.qtl              Bayesian QTL analysis using the BIC criterion
+DS.gamma                Darvasi and Soller correction factor gamma
+ex3n300a.data           Simulated QTL dataset in QTLCartographer format
+impute.marker           Imputation of missing marker values in QTL
+                        progeny
+map.function.rec        Map functions
+print.summary.bicreg.qtl
+                        Print summary of bicreg.qtl objects
+recalc.bicprobs         Recalculation of posterior probabilities for
+                        bicreg.qtl objects
+sample.bicreg.qtl.models
+                        Sampling models for BIC analyses of multiple
+                        chromosomes
+sim.bc.progeny          Simulation of back-cross QTL progeny
+summary.bicreg.qtl      Summary of bicreg.qtl objects
+Unique.Rows             Unique rows

@@ -1,0 +1,8 @@
+export(bicreg.qtl, bicreg2, DS.gamma, recalc.bicprobs)
+export(sample.bicreg.qtl.models, bicreg.models)
+export(map.function.rec,map.function.dist)
+export(impute.marker,impute.marker.matrix)
+export(sim.bc.progeny)
+export(Unique.Rows)
+S3method(summary, bicreg.qtl)
+S3method(print, summary.bicreg.qtl)
