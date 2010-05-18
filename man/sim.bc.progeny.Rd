@@ -29,7 +29,7 @@ variance \code{1 - sum(Vp)} is added to the QTL effects to give simulated trait 
   \code{sim.bc.progeny} returns a list with elements \code{x} (matrix of marker
   values) and \code{y} (vector of trait values).
 }
-\author{R.D. Ball \email{rod.ball@AT@scionresearch.com}}
+\author{R.D. Ball \email{rod.ball@scionresearch.com}}
 \examples{
 set.seed(1234)
 ex1.map.pos <- seq(5,105,by=10)

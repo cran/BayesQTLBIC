@@ -27,7 +27,7 @@ for the Kosambi mapping function.
 Liu, B. 1998: Statistical Genomics: Linkage, Mapping and QTL Analysis.
 Boca Raton, FL: CRC Press LLC.
 }
-\author{R.D. Ball \email{rod.ball@AT@scionresearch.com}}
+\author{R.D. Ball \email{rod.ball@scionresearch.com}}
 \examples{
  map.function.rec(d=c(0,0.01,0.1,0.2,1,5),method="haldane")
  map.function.rec(d=c(0.01,0.1,0.2,1,5),method="kosambi")

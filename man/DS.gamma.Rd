@@ -25,7 +25,7 @@
   of linkage between a locus and a quantitative trait locus.
   Theoretical and Applied Genetics 85: 353--359.
 }
-\author{Rod Ball (\email{rod.ball@AT@scionresearch.com})}
+\author{Rod Ball (\email{rod.ball@scionresearch.com})}
 \examples{
 DS.gamma(p = c(0.05,0.1,0.25))
 }

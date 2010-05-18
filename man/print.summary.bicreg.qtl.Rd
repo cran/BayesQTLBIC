@@ -11,5 +11,5 @@
   \item{x}{object of class 'bicreg.summ'}
   \item{...}{further arguments to genetic print methods}
 }
-\author{Rod Ball (\email{rod.ball@AT@scionresearch.com})}
+\author{Rod Ball (\email{rod.ball@scionresearch.com})}
 \keyword{print}

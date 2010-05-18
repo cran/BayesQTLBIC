@@ -1,9 +1,9 @@
 Package: BayesQTLBIC
-Version: 1.0-0
-Date: 2008-10-15
+Version: 1.0-1
+Date: 2010-05-18
 Title: Bayesian multi-locus QTL analysis based on the BIC criterion
-Author: Rod Ball <rod.ball@ATscionresearch.com>
-Maintainer: Rod Ball <rod.ball@ATscionresearch.com>
+Author: Rod Ball <rod.ball@scionresearch.com>
+Maintainer: Rod Ball <rod.ball@scionresearch.com>
 Description: R package for a non-MCMC approximate multilocus Bayesian
         model selection approach to the analysis of quantitative trait
         loci (QTL).  The method and models are described in (Ball, R.
@@ -43,6 +43,6 @@ Description: R package for a non-MCMC approximate multilocus Bayesian
 Depends: leaps
 License: GPL (>= 2)
 URL: mailto:rod.ball@scionresearch.com www.scionresearch.com/
-Packaged: Fri Oct 30 13:38:09 2009; rod
+Packaged: Tue May 18 09:47:23 2010; rod
 Repository: CRAN
-Date/Publication: 2009-10-30 07:56:55
+Date/Publication: 2010-05-18 11:41:57

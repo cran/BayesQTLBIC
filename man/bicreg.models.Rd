@@ -48,7 +48,7 @@
 \references{
   Ball, R. D. 2001: Bayesian methods for QTL mapping based on model selection: approximate analysis using the Bayesian Information
   Criterion. Genetics 159: 1351--1364.}
-\author{R.D. Ball, (\email{rod.ball@AT@scionresearch.com})}
+\author{R.D. Ball, (\email{rod.ball@scionresearch.com})}
 \seealso{\code{\link{bicreg.qtl}},\code{\link{sample.bicreg.qtl.models}}}
 \examples{
 \dontrun{

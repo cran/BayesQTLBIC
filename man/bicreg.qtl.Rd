@@ -146,7 +146,7 @@ and is a list containing at least the following components/attributes:
 }
 \author{R.D. Ball, 
 %Scion (New Zealand Forest Research Institute Limited);
-  (\email{rod.ball@AT@scionresearch.com}),
+  (\email{rod.ball@scionresearch.com}),
   based on \code{bicreg} from the \code{BMA} package by Adrian Raftery,
   Chris Volinski, and Ian Painter. }
 \seealso{\code{bicreg}, 

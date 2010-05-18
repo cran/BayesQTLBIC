@@ -35,7 +35,7 @@
   \item{probne0}{ marginal probabilities for markers to be selected}
   \item{postprob.size}{ marginal probabilities for model size}
 }
-\author{R.D. Ball \email{rod.ball@AT@scionresearch.com}
+\author{R.D. Ball \email{rod.ball@scionresearch.com}
 }
 \seealso{\code{\link{bicreg.qtl}}, \code{\link{summary.bicreg.qtl}}}
 \examples{

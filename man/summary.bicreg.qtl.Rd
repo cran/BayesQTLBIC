@@ -10,5 +10,5 @@
   \item{object}{object of class 'bicreg.qtl'}
   \item{...}{further arguments to other summary methods}
 }
-\author{Rod Ball (\email{rod.ball@AT@scionresearch.com})}
+\author{Rod Ball (\email{rod.ball@scionresearch.com})}
 \keyword{print}
